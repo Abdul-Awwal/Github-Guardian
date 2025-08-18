@@ -1,0 +1,6 @@
+{
+  "name": "IaC Guardian",
+  "description": "An intelligent security scanner for your Infrastructure as Code. Upload your IaC files to detect vulnerabilities, receive code-level fixes, and get holistic configuration recommendations powered by Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
